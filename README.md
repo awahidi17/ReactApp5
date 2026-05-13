@@ -12,7 +12,6 @@ A React web application for students to track assignments, deadlines and priorit
 - Filter by priority (all, high, medium, low)
 - Search tasks by title
 - Data persists in localStorage across page refreshes
-
 ## Tech Stack
 
 - React 19
