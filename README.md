@@ -75,6 +75,4 @@ src/
   main.tsx                  - entry point
 ```
 
-## Screenshots
-
 (screenshots will be here after app is complete)
