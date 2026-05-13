@@ -24,10 +24,8 @@ A React web application for students to track assignments, deadlines and priorit
 
 | Name | Role |
 |------|------|
-| Gurinder Saini | Project setup, App.tsx, state management, integration |
 | Ahmad Wahidi | TaskForm component |
-| Kenneth Plumstead | TaskList and TaskItem components |
-| Jeancarlo Ricardo | FilterBar, localStorage hook, testing |
+
 
 ## Getting Started
 
@@ -39,8 +37,8 @@ A React web application for students to track assignments, deadlines and priorit
 ### Installation
 
 ```
-git clone https://github.com/gurinder1996/ReactApp5-Group3.git
-cd ReactApp5-Group3
+git clone https://github.com/awahidi17/ReactApp5.git
+cd ReactApp5
 npm install
 ```
 
